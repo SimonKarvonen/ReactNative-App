@@ -1,0 +1,212 @@
+{
+  "Users": [
+    {
+      "Username": "alpha",
+      "Badges": [
+        {
+          "id": 0,
+          "Name": "Tryckkörtkort",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Drönarkörtkort",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Studikörtkort",
+          "Value": false
+        }
+      ],
+      "Materials": [
+        {
+          "id": 0,
+          "Name": "Gratis utskrift",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Gratis Scrunchie",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Gratis tryck",
+          "Value": false
+        },
+        {
+          "id": 3,
+          "Name": "Gratis Glowforge",
+          "Value": false
+        },
+        {
+          "id": 4,
+          "Name": "Gratis fotografi",
+          "Value": false
+        },
+        {
+          "id": 5,
+          "Name": "Gratis 3D-print",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Username": "bravo",
+      "Badges": [
+        {
+          "id": 0,
+          "Name": "Tryckkörtkort",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Drönarkörtkort",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Studikörtkort",
+          "Value": false
+        }
+      ],
+      "Materials": [
+        {
+          "id": 0,
+          "Name": "Gratis utskrift",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Gratis Scrunchie",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Gratis tryck",
+          "Value": false
+        },
+        {
+          "id": 3,
+          "Name": "Gratis Glowforge",
+          "Value": false
+        },
+        {
+          "id": 4,
+          "Name": "Gratis fotografi",
+          "Value": false
+        },
+        {
+          "id": 5,
+          "Name": "Gratis 3D-print",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Username": "charlie",
+      "Badges": [
+        {
+          "id": 0,
+          "Name": "Tryckkörtkort",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Drönarkörtkort",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Studikörtkort",
+          "Value": false
+        }
+      ],
+      "Materials": [
+        {
+          "id": 0,
+          "Name": "Gratis utskrift",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Gratis Scrunchie",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Gratis tryck",
+          "Value": false
+        },
+        {
+          "id": 3,
+          "Name": "Gratis Glowforge",
+          "Value": false
+        },
+        {
+          "id": 4,
+          "Name": "Gratis fotografi",
+          "Value": false
+        },
+        {
+          "id": 5,
+          "Name": "Gratis 3D-print",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Username": "delta",
+      "Badges": [
+        {
+          "id": 0,
+          "Name": "Tryckkörtkort",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Drönarkörtkort",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Studikörtkort",
+          "Value": false
+        }
+      ],
+      "Materials": [
+        {
+          "id": 0,
+          "Name": "Gratis utskrift",
+          "Value": false
+        },
+        {
+          "id": 1,
+          "Name": "Gratis Scrunchie",
+          "Value": false
+        },
+        {
+          "id": 2,
+          "Name": "Gratis tryck",
+          "Value": false
+        },
+        {
+          "id": 3,
+          "Name": "Gratis Glowforge",
+          "Value": false
+        },
+        {
+          "id": 4,
+          "Name": "Gratis fotografi",
+          "Value": false
+        },
+        {
+          "id": 5,
+          "Name": "Gratis 3D-print",
+          "Value": false
+        }
+      ]
+    }
+  ]
+}
